@@ -1,0 +1,50 @@
+#main {
+  background-color: #eee;
+}
+
+#title {
+  text-align: center;
+}
+
+#main p {
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+  margin: 0 auto;
+  padding: 10px;
+  max-width: 300px;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  background-size: cover;
+}
+
+#img-caption {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#tribute-info {
+  width: 75%;
+  margin: 50px auto;
+}
+
+#tribute-info ul {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+#tribute-link {
+  text-decoration: none;
+}
+
+#main h3 {
+  margin: 30px auto;
+  text-align: center;
+  background-color: cornsilk;
+}
